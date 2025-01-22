@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pariz\\Documents\\GitHub\\Physics-Project-cpp\\freeFall\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1282F049-25DF-4BC9-90AD-822115508307}|freeFall.vcxproj|C:\\Users\\pariz\\Documents\\GitHub\\Physics-Project-cpp\\freeFall\\freeFall.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1282F049-25DF-4BC9-90AD-822115508307}|freeFall.vcxproj|solutionrelative:freeFall.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1282F049-25DF-4BC9-90AD-822115508307}|freeFall.vcxproj|C:\\Users\\pariz\\Documents\\GitHub\\Physics-Project-cpp\\freeFall\\findTime.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1282F049-25DF-4BC9-90AD-822115508307}|freeFall.vcxproj|solutionrelative:findTime.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1282F049-25DF-4BC9-90AD-822115508307}|freeFall.vcxproj|C:\\Users\\pariz\\Documents\\GitHub\\Physics-Project-cpp\\freeFall\\findTime.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1282F049-25DF-4BC9-90AD-822115508307}|freeFall.vcxproj|solutionrelative:findTime.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "findTime.cpp",
+              "DocumentMoniker": "C:\\Users\\pariz\\Documents\\GitHub\\Physics-Project-cpp\\freeFall\\findTime.cpp",
+              "RelativeDocumentMoniker": "findTime.cpp",
+              "ToolTip": "C:\\Users\\pariz\\Documents\\GitHub\\Physics-Project-cpp\\freeFall\\findTime.cpp",
+              "RelativeToolTip": "findTime.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-22T16:43:47.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "findTime.h",
+              "DocumentMoniker": "C:\\Users\\pariz\\Documents\\GitHub\\Physics-Project-cpp\\freeFall\\findTime.h",
+              "RelativeDocumentMoniker": "findTime.h",
+              "ToolTip": "C:\\Users\\pariz\\Documents\\GitHub\\Physics-Project-cpp\\freeFall\\findTime.h",
+              "RelativeToolTip": "findTime.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-22T16:39:58.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "freeFall.cpp",
+              "DocumentMoniker": "C:\\Users\\pariz\\Documents\\GitHub\\Physics-Project-cpp\\freeFall\\freeFall.cpp",
+              "RelativeDocumentMoniker": "freeFall.cpp",
+              "ToolTip": "C:\\Users\\pariz\\Documents\\GitHub\\Physics-Project-cpp\\freeFall\\freeFall.cpp",
+              "RelativeToolTip": "freeFall.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-22T16:35:59.501Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

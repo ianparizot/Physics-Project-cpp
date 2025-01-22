@@ -1,0 +1,4 @@
+﻿  freeFall.cpp
+C:\Users\pariz\Documents\GitHub\Physics-Project-cpp\freeFall\freeFall.cpp(24,13): warning C4305: '=' : troncation de 'double' à 'float'
+C:\Users\pariz\Documents\GitHub\Physics-Project-cpp\freeFall\freeFall.cpp(27,13): warning C4305: '=' : troncation de 'double' à 'float'
+  freeFall.vcxproj -> C:\Users\pariz\Documents\GitHub\Physics-Project-cpp\freeFall\x64\Debug\freeFall.exe
