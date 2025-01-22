@@ -45,6 +45,14 @@ int main() {
         SetConsoleTextAttribute(hConsole, FOREGROUND_RED | FOREGROUND_GREEN | FOREGROUND_BLUE);
         main();
     }
-    cout << "The time is: " << result << "seconds.";
+    cout << "The time is: " << result << "seconds.\n";
+    while (true) {
+        char answer = 'n';
+        cout << "Exit? (y): ";
+        cin >> answer;
+        if (answer == 'y') {
+            break;
+        }
+    }
     return 0;
 }
